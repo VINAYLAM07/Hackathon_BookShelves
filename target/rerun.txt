@@ -1,0 +1,3 @@
+file:Features/bb_livingCollections.feature:4
+file:Features/cc_giftCard.feature:4
+file:Features/aa_bookShelves.feature:4
